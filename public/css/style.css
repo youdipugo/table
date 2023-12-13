@@ -1,6 +1,6 @@
 body{
     margin:0;
-    padding:20px;
+    padding:0;
     font-family: sans-serif;
     background: url(background.jpg);
     background-position: center;
@@ -10,21 +10,21 @@ body{
 
 *{
     box-sizing: border-box; 
+    font-size: 16px;
+
 }
 
 .table{
     width:80%;
-    max-width: 900px;
-    height: 80%;
     border-collapse: collapse;
-    overflow-x: scroll;
+
 
 }
 .table td,.table th{
     padding: 12px 15px;
     border:1px solid #3A4B85;
     font-size: 16px;
-    text-align: justify;
+    text-align: center;
     text-transform: capitalize;
 }
 thead{
@@ -49,11 +49,18 @@ tbody{
 .wholetbl{
     display: flex;
     margin-top: 5%;
-    justify-content: center;    
+    justify-content: center; 
 }
 
-@media (max-width:1024px) {
-    .wholetbl{
-        width: 130%;
-    }
+
+
+
+
+
+
+@media (max-width: 900px) {
+   .wholetbl  {
+    
+    width:fixed;
+      }
 }

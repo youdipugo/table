@@ -11,71 +11,121 @@
 <div class="wholetbl">   
 <table class="table">
 <thead>
-<th>Customer</th>
-<th>Customer</th>
-<th>Customer</th>
-<th>Customer</th>
+<th>CustomerCategory</th>
+<th>Lastname</th>
+<th>Firstname</th>
+<th>Middlename</th>
+<th>Email</th>
+<th>Address</th>
+<th>MobileNumber</th>
+<th>TelephoneNumber</th>
+<th>Companyname</th>
 
 </thead>
 <tbody>
     <tr>
-        <td data-label="Customer"><input type="checkbox" id="check">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
               
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
              
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
              
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
              
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
           
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
              
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
              
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
               
     </tr>
     <tr>
-        <td data-label="Customer"><input type="checkbox">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
+        <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
         <td data-label="Customer">customer</td>
